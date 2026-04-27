@@ -18,13 +18,13 @@
 
 <p align="center">
   <img width="900" src="figs/visualization.png">
-  <img width="800" src="figs/quantitative_result1.png">
+  <img width="850" src="figs/quantitative_result1.png">
 </p>
 
 - Results in Tab. 2 of the main paper on the Cityscapes dataset
 
 <p align="center">
-  <img width="800" src="figs/quantitative_result2.png">
+  <img width="850" src="figs/quantitative_result2.png">
 </p>
 </details>
 
