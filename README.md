@@ -5,7 +5,7 @@
 
 ## Overall
 
-![](figs/Overall.png)
+![](figs/overall.png)
 
 ---
 
@@ -17,14 +17,13 @@
 - Results in Tab. 1 and Fig. 3 of the main paper on the VSPW dataset
 
 <p align="center">
-  <img width="900" src="figs/qualitative_results_1.png">
+  <img width="900" src="figs/visualization.png">
   <img width="900" src="figs/quantitative_results_1.png">
 </p>
 
 - Results in Tab. 2 of the main paper on the Cityscapes dataset
 
 <p align="center">
-  <img width="900" src="figs/qualitative_results_2.png">
   <img width="900" src="figs/quantitative_results_2.png">
 </p>
 
