@@ -12,12 +12,17 @@
 ## 🔎 Results
 
 <details open>
-<summary>Quantitative and Qualitative Results</summary>
+<summary>Qualitative and Quantitative Results</summary>
 
-- Results in Tab. 1 and Fig. 3 of the main paper on the VSPW dataset
+- Results in Fig. 3 of the main paper on the VSPW dataset
 
 <p align="center">
   <img width="900" src="figs/visualization.png">
+</p>
+
+- Results in Tab. 1 of the main paper on the VSPW dataset
+
+<p align="center">
   <img width="800" src="figs/quantitative_result1.png">
 </p>
 
