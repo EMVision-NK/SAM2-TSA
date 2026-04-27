@@ -27,6 +27,7 @@
   <img width="900" src="figs/quantitative_result2.png">
 </p>
 </details>
+
 ---
 
 ## 💡 Acknowledgements
